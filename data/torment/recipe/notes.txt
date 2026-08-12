@@ -1,9 +1,0 @@
-most resources are interpreted as being 1 mol.
-Exceptions:
-- red phosphorus is interpreted as being the same amount as the equivalent amount of P4 white phosphorus
-
-Cheating in flasks:
-
-/give @s crossroads:florence_flask_cryst[crossroads:reagents={qty_nitrogen:8,he:2262d}]
-
-(for example. replace nitrogen by whatever the id is)
