@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "zinc",
+	"melting": 419,
+	"boiling": 907,
+	"color": "D2F5D7",
+	"effect": "none"
+}

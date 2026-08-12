@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lithium",
+	"melting": 180,
+	"boiling": 1344,
+	"color": "CCCCCC",
+	"effect": "none"
+}

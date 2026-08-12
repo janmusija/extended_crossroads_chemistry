@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 10,
+	"reagents": [
+	{
+		"type": "iron2_sulfide",
+		"qty": 1
+	},
+	{
+		"type": "sulfuric_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "iron2_chloride",
+		"qty": 1
+	},
+	{
+		"type": "hydrogen_sulfide",
+		"qty": 1
+	}
+	]
+}

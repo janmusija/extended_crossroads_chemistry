@@ -1,0 +1,18 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 280,
+	"heat": -5,
+	"reagents": [
+	{
+		"type": "white_phosphorus",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "red_phosphorus",
+		"qty": 1
+	}
+	]
+}

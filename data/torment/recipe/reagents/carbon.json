@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "carbon",
+	"melting": 3642,
+	"boiling": 3643,
+	"color": "000000",
+	"effect": "none"
+}

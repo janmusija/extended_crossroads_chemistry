@@ -1,0 +1,31 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -60,
+	"max_temp": -30,
+	"heat": -247,
+	"reagents": [
+	{
+		"type": "sodium_amide",
+		"qty": 2
+	},
+	{
+		"type": "nitrous_oxide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_azide",
+		"qty": 1
+	},
+	{
+		"type": "sodium_hydroxide",
+		"qty": 1
+	},
+	{
+		"type": "ammonia",
+		"qty": 1
+	}
+	]
+}

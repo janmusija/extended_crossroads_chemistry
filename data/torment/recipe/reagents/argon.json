@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "argon",
+	"melting": -189,
+	"boiling": -185,
+	"color": "C84E9CFF",
+	"effect": "none"
+}

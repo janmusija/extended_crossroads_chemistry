@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"active": true,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "test_endstone",
+		"qty": 1
+	},
+	],
+	"products": [
+	{
+		"type": "oxygen",
+		"qty": 2
+	},
+	{
+		"type": "nitrogen",
+		"qty": 7
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	]
+}

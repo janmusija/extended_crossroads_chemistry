@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_amide",
+	"melting": 210,
+	"boiling": 400,
+	"color": "FFFFFF",
+	"effect": "none"
+}

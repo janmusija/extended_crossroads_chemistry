@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 400,
+	"max_temp": 620,
+	"catalyst": "vanadium_pentoxide",
+	"heat": -100,
+	"reagents": [
+	{
+		"type": "sulfur_dioxide",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	],
+	"products": {
+		"type": "sulfur_trioxide",
+		"qty": 2
+	}
+}

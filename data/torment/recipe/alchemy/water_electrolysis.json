@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"heat": 100,
+	"charged": true,
+	"reagents": {
+		"type": "water",
+		"qty": 2
+	},
+	"products": [
+		{
+			"type": "oxygen",
+			"qty": 1
+		},
+		{
+			"type": "hydrogen",
+			"qty": 2
+		}
+	]
+}

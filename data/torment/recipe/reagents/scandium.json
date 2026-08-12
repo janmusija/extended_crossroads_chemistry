@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "scandium",
+	"melting": 1541,
+	"boiling": 2836,
+	"color": "CCCCCC",
+	"effect": "none"
+}

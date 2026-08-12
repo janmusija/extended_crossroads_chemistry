@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "monochloramine",
+	"melting": -66,
+	"boiling": -6,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

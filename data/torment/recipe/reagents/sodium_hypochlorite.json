@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_hypochlorite",
+	"melting": 18,
+	"boiling": 101,
+	"color": "FFFFFF",
+	"effect": "none"
+}

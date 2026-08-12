@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "nitrogen_dioxide",
+	"melting": -9,
+	"boiling": 21,
+	"color": "886A140A",
+	"effect": "none"
+}

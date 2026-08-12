@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "boron",
+	"melting": 2076,
+	"boiling": 3927,
+	"color": "CCCCCC",
+	"effect": "none"
+}

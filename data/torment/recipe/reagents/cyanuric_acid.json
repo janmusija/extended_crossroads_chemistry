@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "cyanuric_acid",
+	"melting": 340,
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

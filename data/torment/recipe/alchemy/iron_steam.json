@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 100,
+	"reagents": [
+	{
+		"type": "iron",
+		"qty": 3
+	},
+	{
+		"type": "water",
+		"qty": 4
+	}
+	],
+	"products": [
+	{
+		"type": "iron_2_3_oxide",
+		"qty": 1
+	},
+	{
+		"type": "hydrogen",
+		"qty": 4
+	}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 750,
+	"max_temp": 1768,
+	"catalyst": "platinum",
+	"heat": -143,
+	"reagents": [
+	{
+		"type": "ammonia",
+		"qty": 4
+	},
+	{
+		"type": "oxygen",
+		"qty": 5
+	}
+	],
+	"products": [
+	{
+		"type": "water",
+		"qty": 6
+	},
+	{
+		"type": "nitric_oxide",
+		"qty": 4
+	}
+	]
+}

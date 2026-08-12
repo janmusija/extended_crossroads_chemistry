@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -60,
+	"max_temp": 0,
+	"heat": -144,
+	"reagents": [
+	{
+		"type": "sodium",
+		"qty": 2
+	},
+	{
+		"type": "ammonia",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_amide",
+		"qty": 2
+	},
+	{
+		"type": "hydrogen",
+		"qty": 1
+	}
+	]
+}

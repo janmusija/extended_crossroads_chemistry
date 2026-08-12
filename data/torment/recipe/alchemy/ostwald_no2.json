@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"max_temp": 300,
+	"heat": -73,
+	"reagents": [
+	{
+		"type": "nitric_oxide",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	],
+	"products": {
+		"type": "nitrogen_dioxide",
+		"qty": 2
+	}
+}

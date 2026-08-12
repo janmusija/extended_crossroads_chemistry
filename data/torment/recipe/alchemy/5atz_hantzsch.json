@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"reagents": [
+	{
+		"type": "cyanamide",
+		"qty": 1
+	},
+	{
+		"type": "hydrazoic_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "5-aminotetrazole",
+		"qty": 1
+	}
+	]
+}

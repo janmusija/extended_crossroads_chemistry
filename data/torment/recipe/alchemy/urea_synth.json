@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 160,
+	"max_temp": 180,
+	"heat": -50,
+	"reagents": [
+	{
+		"type": "ammonia",
+		"qty": 2
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	]
+	"products": [
+	{
+		"type": "urea",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

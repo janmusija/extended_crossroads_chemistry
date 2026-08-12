@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 300,
+	"heat": 50,
+	"reagents": {
+		"type": "sodium_chlorate",
+		"qty": 2
+	},
+	"products": [
+	{
+		"type": "salt",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 3
+	}
+	]
+}

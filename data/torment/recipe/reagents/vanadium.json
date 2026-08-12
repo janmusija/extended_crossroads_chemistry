@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "vanadium",
+	"melting": 1910,
+	"boiling": 3407,
+	"color": "CCCCCC"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "magnesium",
+	"melting": 650,
+	"boiling": 1091,
+	"color": "CCCCCC",
+	"effect": "none"
+}

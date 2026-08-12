@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "titanium",
+	"melting": 1668,
+	"boiling": 3287,
+	"color": "CCCCCC",
+	"effect": "none"
+}

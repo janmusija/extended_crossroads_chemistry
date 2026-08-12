@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_cyanamide",
+	"melting": 1150,
+	"boiling": 1150,
+	"color": "FFFFFF",
+	"effect": "none"
+}

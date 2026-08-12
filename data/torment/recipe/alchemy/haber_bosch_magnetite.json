@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 300,
+	"max_temp": 500,
+	"catalyst": "iron_2_3_oxide"
+	"heat": -50,
+	"reagents": [
+	{
+		"type": "hydrogen",
+		"qty": 3
+	},
+	{
+		"type": "nitrogen",
+		"qty": 1
+	}
+	],
+	"products": {
+		"type": "ammonia",
+		"qty": 2
+	}
+}

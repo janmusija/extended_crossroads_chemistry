@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "neon",
+	"melting": -249,
+	"boiling": -246,
+	"color": "C84E9CFF",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "nitrous_oxide",
+	"melting": -91,
+	"boiling": -88,
+	"color": "C84E9CFF",
+	"effect": "none"
+}

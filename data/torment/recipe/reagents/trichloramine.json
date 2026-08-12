@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "trichloramine",
+	"melting": -40,
+	"boiling": 71,
+	"color": {
+		"base": "C896842A",
+		"gas": "8096842A",
+		"solid": "96842A"
+	},
+	"effect": "none"
+}

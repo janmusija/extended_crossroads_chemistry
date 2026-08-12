@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium",
+	"melting": 64,
+	"boiling": 758,
+	"color": "CCCCCC",
+	"effect": "none"
+}

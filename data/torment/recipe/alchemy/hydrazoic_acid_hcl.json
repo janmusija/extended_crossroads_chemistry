@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"reagents": [
+	{
+		"type": "sodium_azide",
+		"qty": 1
+	},
+	{
+		"type": "hydrochloric_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "hydrazoic_acid",
+		"qty": 1
+	},
+	{
+		"type": "salt",
+		"qty": 1
+	}
+	]
+}

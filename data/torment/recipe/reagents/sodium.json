@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium",
+	"melting": 97,
+	"boiling": 882,
+	"color": "CCCCCC",
+	"effect": "none"
+}

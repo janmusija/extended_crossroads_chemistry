@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iron2_sulfate",
+	"melting": "never",
+	"boiling": "never",
+	"color": "90C2B8",
+	"effect": "none"
+}

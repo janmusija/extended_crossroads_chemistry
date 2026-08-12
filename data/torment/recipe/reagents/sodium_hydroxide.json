@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_hydroxide",
+	"melting": 323,
+	"boiling": 1388,
+	"color": "FFFFFF",
+	"effect": "none"
+}

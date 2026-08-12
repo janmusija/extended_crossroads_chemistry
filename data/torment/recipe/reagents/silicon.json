@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "silicon",
+	"melting": 1414,
+	"boiling": 3265,
+	"color": "110055",
+	"effect": "none"
+}

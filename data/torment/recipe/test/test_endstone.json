@@ -1,0 +1,9 @@
+{
+	"type": "crossroads:reagents",
+	"id": "test_endstone",
+	"melting": "never",
+	"boiling": "never",
+	"color": "FFFF00",
+	"effect": "none"
+	"item": "torment/testing/endstone"
+}

@@ -1,0 +1,9 @@
+{
+	"type": "crossroads:reagents",
+	"id": "fluorine",
+	"melting": -220,
+	"boiling": -188,
+	"color": "C8C2B883",
+	"vessel": "crystal",
+	"effect": "poison"
+}

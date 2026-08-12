@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "tetrahydrofuran",
+	"melting": -108,
+	"boiling": 66,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

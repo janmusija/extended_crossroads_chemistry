@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "beryllium",
+	"melting": 1287,
+	"boiling": 2469,
+	"color": "CCCCCC",
+	"effect": "none"
+}

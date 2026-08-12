@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hydrazine",
+	"melting": 2,
+	"boiling": 114,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

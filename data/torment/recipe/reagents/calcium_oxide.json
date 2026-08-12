@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_oxide",
+	"melting": 2613,
+	"boiling": 2850,
+	"color": "FFFFFF",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sulfur_trioxide",
+	"melting": 16,
+	"boiling": 45,
+	"color": "88FFFFFF",
+	"effect": "none"
+}

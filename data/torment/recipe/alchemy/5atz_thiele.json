@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"catalyst": "hydrochloric_acid",
+	"reagents": [
+	{
+		"type": "aminoguanidine",
+		"qty": 1
+	},
+	{
+		"type": "nitrous_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "5-aminotetrazole",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	]
+}

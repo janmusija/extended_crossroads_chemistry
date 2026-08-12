@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "oleum",
+	"melting": 36,
+	"boiling": 45,
+	"color": "88FFFFFF",
+	"effect": "none"
+}

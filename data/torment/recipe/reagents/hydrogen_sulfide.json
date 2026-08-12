@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hydrogen_sulfide",
+	"melting": -86,
+	"boiling": -60,
+	"color": "C8FFFF00",
+	"effect": "poison"
+}

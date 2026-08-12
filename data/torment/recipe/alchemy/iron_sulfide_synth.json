@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 300,
+	"heat": -100,
+	"reagents": [
+	{
+		"type": "sulfur",
+		"qty": 1
+	},
+	{
+		"type": "iron",
+		"qty": 1
+	}
+	],
+	"products": {
+		"type": "iron2_sulfide",
+		"qty": 1
+	}
+}

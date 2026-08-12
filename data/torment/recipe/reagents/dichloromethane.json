@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "dichloromethane",
+	"melting": -96,
+	"boiling": 40,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

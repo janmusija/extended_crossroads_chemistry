@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iron2_chloride",
+	"melting": 677,
+	"boiling": 1023,
+	"color": "C7AC86",
+	"effect": "none"
+}

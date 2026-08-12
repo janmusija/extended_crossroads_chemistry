@@ -1,0 +1,29 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 800,
+	"reagents": [
+	{
+		"type": "calcium_oxide",
+		"qty": 1
+	},
+	{
+		"type": "cyanuric_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_cyanate",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	},
+	{
+		"type": "ammonia",
+		"qty": 1
+	}
+	]
+}

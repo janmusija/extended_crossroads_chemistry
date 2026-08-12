@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"catalyst": "hydrochloric_acid",
+	"reagents": {
+		"type": "dichloramine",
+		"qty": 3
+	},
+	"products": [
+	{
+		"type": "ammonia",
+		"qty": 1
+	},
+	{
+		"type": "trichloramine",
+		"qty": 2
+	}
+	]
+}

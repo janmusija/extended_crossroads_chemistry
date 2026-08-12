@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"reagents": [
+	{
+		"type": "nitrous_acid",
+		"qty": 1
+	},
+	{
+		"type": "hydrazine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "hydrazoic_acid",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	]
+}

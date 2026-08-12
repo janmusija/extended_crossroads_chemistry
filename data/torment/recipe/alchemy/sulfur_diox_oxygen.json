@@ -1,0 +1,20 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 190,
+	"heat": -300,
+	"reagents": [
+	{
+		"type": "sulfur",
+		"qty": 1
+	},
+	{
+		"type": "oxygen",
+		"qty": 2
+	}
+	],
+	"products": {
+		"type": "sulfur_dioxide",
+		"qty": 1
+	}
+}

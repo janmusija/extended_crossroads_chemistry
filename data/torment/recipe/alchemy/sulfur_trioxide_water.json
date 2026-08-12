@@ -1,0 +1,18 @@
+{
+	"type": "crossroads:alchemy",
+	"min_temp": 10,
+	"max_temp": 150,
+	"heat": -20,
+	"active": true,
+	"reagents": [
+		{
+			"type": "sulfur_trioxide"
+		},
+		{
+			"type": "water"
+		}
+	],
+	"products": {
+		"type": "sulfuric_acid"
+	}
+}

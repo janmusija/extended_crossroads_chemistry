@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lead",
+	"melting": 327,
+	"boiling": 1749,
+	"color": "776677",
+	"effect": "none"
+}

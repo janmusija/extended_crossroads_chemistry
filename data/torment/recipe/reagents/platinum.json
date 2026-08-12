@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "platinum",
+	"melting": 1768,
+	"boiling": 3825,
+	"color": "CCCCCC",
+	"effect": "none"
+}

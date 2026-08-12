@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "oxygen",
+	"melting": -219,
+	"boiling": -183,
+	"color": "C84E9CB5",
+	"effect": "none"
+}

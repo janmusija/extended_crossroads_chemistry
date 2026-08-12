@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "white_phosphorus",
+	"melting": 44,
+	"boiling": 280,
+	"color": "FFFFDD",
+	"effect": "none"
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1000,
+	"heat": -100,
+	"reagents": [
+		{
+			"type": "carbon",
+			"qty": 1
+		},
+		{
+			"type": "oxygen",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "carbon_dioxide",
+			"qty": 1
+		}
+	]
+}

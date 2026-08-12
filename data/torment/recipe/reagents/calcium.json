@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium",
+	"melting": 842,
+	"boiling": 1454,
+	"color": "CCCCCC",
+	"effect": "none"
+}

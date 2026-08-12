@@ -1,0 +1,19 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"reagents": [
+	{
+		"type": "sulfuric_acid",
+		"qty": 2
+	},
+	{
+		"type": "sulfur_trioxide",
+		"qty": 2
+	}
+	],
+	"products": {
+		"type": "oleum",
+		"qty": 2
+	}
+}

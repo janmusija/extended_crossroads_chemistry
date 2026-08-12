@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "acetone",
+	"melting": -95,
+	"boiling": 56,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

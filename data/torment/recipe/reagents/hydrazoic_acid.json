@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hydrazoic_acid",
+	"melting": -91,
+	"boiling": 37,
+	"color": "808888FF",
+	"effect": "none"
+}

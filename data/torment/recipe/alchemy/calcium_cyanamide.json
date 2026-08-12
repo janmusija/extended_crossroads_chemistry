@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 800,
+	"reagents": [
+	{
+		"type": "calcium_cyanate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_cyanamide",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_hydroxide",
+	"melting": 580,
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "nitric_oxide",
+	"melting": -164,
+	"boiling": -152,
+	"color": "88FFFFFF",
+	"effect": "none"
+}

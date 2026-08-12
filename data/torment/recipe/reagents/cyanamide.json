@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "cyanamide",
+	"melting": 44,
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

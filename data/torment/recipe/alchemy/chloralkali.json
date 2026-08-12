@@ -1,0 +1,33 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 20,
+	"max_temp": 60,
+	"heat": 50,
+	"charged": true,
+	"active": true,
+	"reagents": [
+		{
+			"type": "water",
+			"qty": 2
+		},
+		{
+			"type": "salt",
+			"qty": 2
+		}
+	],
+	"products": [
+		{
+			"type": "chlorine",
+			"qty": 1
+		},
+		{
+			"type": "sodium_hydroxide",
+			"qty": 2
+		},
+		{
+			"type": "hydrogen",
+			"qty": 1
+		}
+	]
+}

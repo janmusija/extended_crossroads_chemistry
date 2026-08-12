@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "aluminium",
+	"melting": 660,
+	"boiling": 2470,
+	"color": "AADDF7",
+	"effect": "none"
+}
