@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "benzene",
+	"melting": 6,
+	"boiling": 80,
+	"color": "3D3D54",
+	"effect": "none"
+}

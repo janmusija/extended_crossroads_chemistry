@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "phosgene",
+	"melting": -118,
+	"boiling": 8,
+	"color": "A0BBFFBB",
+	"effect": "poison"
+}

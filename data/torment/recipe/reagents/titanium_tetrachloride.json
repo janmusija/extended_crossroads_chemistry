@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "titanium_tetrachloride",
+	"melting": -24,
+	"boiling": 136,
+	"color": "CCCCCC",
+	"effect": "none"
+}

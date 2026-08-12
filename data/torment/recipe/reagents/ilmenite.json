@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ilmenite",
+	"melting": 1500,
+	"boiling": 3000,
+	"color": "080808",
+	"effect": "none"
+}

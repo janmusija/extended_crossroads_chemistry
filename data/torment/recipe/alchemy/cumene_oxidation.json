@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 70,
+	"max_temp": 120,
+	"reagents": [
+		{
+			"type": "cumene",
+			"qty": 1
+		},
+		{
+			"type": "oxygen",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "phenol",
+			"qty": 1
+		},
+		{
+			"type": "acetone",
+			"qty": 1
+		}
+	]
+}

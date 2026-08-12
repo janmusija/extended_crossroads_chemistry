@@ -1,0 +1,23 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 70,
+	"max_temp": 120,
+	"catalyst": "sulfuric_acid",
+	"reagents": [
+		{
+			"type": "benzene",
+			"qty": 1
+		},
+		{
+			"type": "propene",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "cumene",
+			"qty": 1
+		}
+	]
+}

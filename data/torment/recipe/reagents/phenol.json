@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "phenol",
+	"melting": 40,
+	"boiling": 182,
+	"color": "3D3D54",
+	"effect": "none"
+}

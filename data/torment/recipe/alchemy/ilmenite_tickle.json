@@ -1,0 +1,36 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 850,
+	"max_temp": 1000,
+	"heat": -20,
+	"charged": true,
+	"reagents": [
+		{
+			"type": "ilmenite",
+			"qty": 2
+		},
+		{
+			"type": "chlorine",
+			"qty": 7
+		},
+		{
+			"type": "carbon",
+			"qty": 6
+		}
+	],
+	"products": [
+		{
+			"type": "titanium_tetrachloride",
+			"qty": 2
+		},
+		{
+			"type": "iron3_chloride",
+			"qty": 2
+		},
+		{
+			"type": "carbon_monoxide",
+			"qty": 6
+		}
+	]
+}

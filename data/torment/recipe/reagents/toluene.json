@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "toluene",
+	"melting": -95,
+	"boiling": 110,
+	"color": "3D3D54",
+	"effect": "none"
+}

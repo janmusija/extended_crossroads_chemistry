@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "cumene",
+	"melting": -96,
+	"boiling": 152,
+	"color": "3D3D4A",
+	"effect": "none"
+}

@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"reagents": [
+	{
+		"type": "phosgene",
+		"qty": 1
+	},
+	{
+		"type": "ethanol",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "ethyl_chloroformate",
+		"qty": 1
+	},
+	{
+		"type": "hydrochloric_acid",
+		"qty": 1
+	}
+	]
+}

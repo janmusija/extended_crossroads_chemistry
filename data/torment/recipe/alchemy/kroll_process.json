@@ -1,0 +1,28 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 800,
+	"max_temp": 850,
+	"heat": -20,
+	"charged": true,
+	"reagents": [
+		{
+			"type": "magnesium",
+			"qty": 2
+		},
+		{
+			"type": "titanium_tetrachloride",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "magnesium_chloride",
+			"qty": 2
+		},
+		{
+			"type": "titanium",
+			"qty": 1
+		}
+	]
+}

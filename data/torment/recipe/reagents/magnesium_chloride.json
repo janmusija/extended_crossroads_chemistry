@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "magnesium_chloride",
+	"melting": 714,
+	"boiling": 1412,
+	"color": "CCCCCC",
+	"effect": "none"
+}

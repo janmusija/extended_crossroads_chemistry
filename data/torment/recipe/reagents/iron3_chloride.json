@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iron3_chloride",
+	"melting": 307,
+	"boiling": 316,
+	"color": "F4C54D",
+	"effect": "none"
+}

@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 50,
+	"max_temp": 170,
+	"heat": -5,
+	"catalyst": "carbon",
+	"reagents": [
+	{
+		"type": "carbon_monoxide",
+		"qty": 1
+	},
+	{
+		"type": "chlorine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "phosgene",
+		"qty": 1
+	}
+	]
+}

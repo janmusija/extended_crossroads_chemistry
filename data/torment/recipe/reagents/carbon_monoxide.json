@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "carbon_monoxide",
+	"melting": -205,
+	"boiling": -192,
+	"color": "C0FFFFFF",
+	"effect": "poison"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "propylene",
+	"melting": -185,
+	"boiling": -48,
+	"color": "F5EBCE",
+	"effect": "none"
+}

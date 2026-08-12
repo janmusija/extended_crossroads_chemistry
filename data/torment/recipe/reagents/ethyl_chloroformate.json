@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ethyl_chloroformate",
+	"melting": -81,
+	"boiling": 95,
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "poison"
+}
