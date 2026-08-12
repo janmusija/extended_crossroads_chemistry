@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "krypton",
+	"melting": -157,
+	"boiling": -153,
+	"color": "C84E9CFF",
+	"effect": "none"
+}

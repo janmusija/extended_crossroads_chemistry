@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "arsenic",
+	"melting": 615,
+	"boiling": 616,
+	"color": "DDDDDD"
+}

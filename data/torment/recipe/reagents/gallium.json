@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "gallium",
+	"melting": 28,
+	"boiling": 2403,
+	"color": "DDDDDD"
+}

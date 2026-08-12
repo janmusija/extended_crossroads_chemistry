@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "bromine",
+	"melting": -7,
+	"boiling": 58,
+	"color": "6A140A",
+	"effect": "poison"
+}

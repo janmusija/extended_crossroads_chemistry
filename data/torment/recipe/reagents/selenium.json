@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "selenium",
+	"melting": 220,
+	"boiling": 685,
+	"color": "DDDDDD"
+}
