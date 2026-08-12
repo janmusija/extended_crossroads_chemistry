@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "palladium",
+	"melting": 1555,
+	"boiling": 2963,
+	"color": "CCCCCC",
+	"effect": "none"
+}

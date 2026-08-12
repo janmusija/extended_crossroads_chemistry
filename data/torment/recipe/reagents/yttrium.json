@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "yttrium",
+	"melting": 1526,
+	"boiling": 2930,
+	"color": "CCCCCC",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "tellurium",
+	"melting": 449,
+	"boiling": 988,
+	"color": "CCCCCC",
+	"effect": "none"
+}

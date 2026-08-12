@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iodine",
+	"melting": 114,
+	"boiling": 184,
+	"color": "7C3486",
+	"effect": "disinfect"
+}

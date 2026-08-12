@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "antimony",
+	"melting": 630,
+	"boiling": 1635,
+	"color": "CCCCCC",
+	"effect": "none"
+}

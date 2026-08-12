@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "silver",
+	"melting": 961,
+	"boiling": 2162,
+	"color": "E0E0EE",
+	"effect": "none"
+}

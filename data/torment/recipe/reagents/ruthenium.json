@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ruthenium",
+	"melting": 2334,
+	"boiling": 4150,
+	"color": "CCCCCC",
+	"effect": "none"
+}

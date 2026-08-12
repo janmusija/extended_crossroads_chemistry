@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "cadmium",
+	"melting": 321,
+	"boiling": 767,
+	"color": "CCCCCC",
+	"effect": "none"
+}

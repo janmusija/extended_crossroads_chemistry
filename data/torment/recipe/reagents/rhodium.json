@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "rhodium",
+	"melting": 1964,
+	"boiling": 3695,
+	"color": "D0D0DD",
+	"effect": "none"
+}

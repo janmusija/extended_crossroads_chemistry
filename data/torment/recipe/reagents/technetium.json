@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "technetium",
+	"melting": 2157,
+	"boiling": 4265,
+	"color": "CCCCCC",
+	"effect": "none"
+}

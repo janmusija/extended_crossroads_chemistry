@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "zirconium",
+	"melting": 1852,
+	"boiling": 4377,
+	"color": "CCCCCC",
+	"effect": "none"
+}

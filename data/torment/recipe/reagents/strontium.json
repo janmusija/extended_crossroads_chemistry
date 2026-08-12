@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "strontium",
+	"melting": 777,
+	"boiling": 1377,
+	"color": "F5EBCE",
+	"effect": "none"
+}

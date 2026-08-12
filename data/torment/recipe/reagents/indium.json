@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "indium",
+	"melting": 157,
+	"boiling": 2072,
+	"color": "CCCCCC",
+	"effect": "none"
+}

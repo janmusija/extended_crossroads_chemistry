@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "molybdenum",
+	"melting": 2623,
+	"boiling": 4639,
+	"color": "999999",
+	"effect": "none"
+}

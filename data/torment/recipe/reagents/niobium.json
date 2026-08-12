@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "niobium",
+	"melting": 2477,
+	"boiling": 4744,
+	"color": "CCCCCC",
+	"effect": "none"
+}
