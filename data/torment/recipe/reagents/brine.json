@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "brine",
+	"melting": -21,
+	"boiling": "never",
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}
