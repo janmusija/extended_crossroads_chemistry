@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"heat": -25
+	"reagents": [
+	{
+		"type": "potassium_oxide",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_hydroxide",
+		"qty": 2
+	}
+	]
+}
