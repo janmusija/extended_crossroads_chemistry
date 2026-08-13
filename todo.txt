@@ -3,7 +3,7 @@ calcium cyanate -- 800 C --> calcium cyanamide
 calcium cyanamide sublimation
 co2 sublimation
 cyanuric acid and cyanamide decomposition
-chloralkali temperature!? -> caelus
+chloralkali temperature!? -> fine, I guess I'll just spitball it
   - higher temp (up to 60C), and lower temp (above 0 C)
   - one is 2H2O + 2NaCl + electricity -> H2 + Cl2 + 2NaOH
   - other is H2O + NaCl + electricity -> H2 + NaOCl
@@ -19,5 +19,3 @@ water + salt - dissolution -> brine - boiling -> water
 
 - synthesis of important solvents.
 - use for important solvents (more dissolution things generally)
-
-thermal decomposition of NaNO3, NaNO2, KNO3, KNO2...
