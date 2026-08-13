@@ -2,19 +2,15 @@
 	"type": "crossroads:alchemy",
 	"category": "normal",
 	"min_temp": 60,
-	"max_temp": 100,
+	"max_temp": 105,
 	"heat": 70
 	"charged": true,
 	"active": true,
 	"reagents": [
 		{
-			"type": "water",
+			"type": "brine",
 			"qty": 3
 		},
-		{
-			"type": "salt",
-			"qty": 1
-		}
 	],
 	"products": [
 		{
@@ -24,6 +20,10 @@
 		{
 			"type": "hydrogen",
 			"qty": 3
+		},
+		{
+			"type": "salt",
+			"qty": 2
 		}
 	]
 }

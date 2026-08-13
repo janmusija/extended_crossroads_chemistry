@@ -8,13 +8,9 @@
 	"active": true,
 	"reagents": [
 		{
-			"type": "water",
+			"type": "brine",
 			"qty": 1
 		},
-		{
-			"type": "salt",
-			"qty": 1
-		}
 	],
 	"products": [
 		{
