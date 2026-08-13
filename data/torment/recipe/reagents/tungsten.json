@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "tungsten",
+	"melting": 3422,
+	"boiling": 5930,
+	"color": "CCCCCC",
+	"effect": "none"
+}

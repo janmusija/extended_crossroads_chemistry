@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "terbium",
+	"melting": 1356,
+	"boiling": 3123,
+	"color": "CCCCCC",
+	"effect": "none"
+}

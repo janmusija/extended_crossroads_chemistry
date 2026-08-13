@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "cerium",
+	"melting": 795,
+	"boiling": 3443,
+	"color": "CCCCCC",
+	"effect": "none"
+}

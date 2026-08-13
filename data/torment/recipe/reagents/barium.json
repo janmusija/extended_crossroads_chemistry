@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "barium",
+	"melting": 727,
+	"boiling": 1845,
+	"color": "F5EBCE",
+	"effect": "none"
+}

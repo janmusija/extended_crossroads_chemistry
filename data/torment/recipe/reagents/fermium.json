@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "fermium",
+	"melting": 1500,
+	"boiling": 2900,
+	"color": "87C9DB"
+}

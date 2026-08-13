@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "holmium",
+	"melting": 1461,
+	"boiling": 2600,
+	"color": "CCCCCC",
+	"effect": "none"
+}

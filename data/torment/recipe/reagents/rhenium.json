@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "rhenium",
+	"melting": 3186,
+	"boiling": 5630,
+	"color": "CCCCCC",
+	"effect": "none"
+}

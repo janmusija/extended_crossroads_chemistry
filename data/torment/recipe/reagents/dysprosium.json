@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "dysprosium",
+	"melting": 1407,
+	"boiling": 2562,
+	"color": "CCCCCC",
+	"effect": "none"
+}

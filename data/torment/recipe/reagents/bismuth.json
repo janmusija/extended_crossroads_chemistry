@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "bismuth",
+	"melting": 272,
+	"boiling": 1564,
+	"color": "CCCCCC",
+	"effect": "none"
+}

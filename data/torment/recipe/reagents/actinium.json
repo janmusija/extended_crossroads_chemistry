@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "actinium",
+	"melting": 1227,
+	"boiling": 3200,
+	"color": "CCCCCC",
+	"effect": "none"
+}

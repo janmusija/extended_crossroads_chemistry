@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lutetium",
+	"melting": 1652,
+	"boiling": 3402,
+	"color": "CCCCCC",
+	"effect": "none"
+}

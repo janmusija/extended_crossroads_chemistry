@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "californium",
+	"melting": 900,
+	"boiling": 1470,
+	"color": "CCCCCC"
+}

@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "thorium",
+	"melting": 1750,
+	"boiling": 4788,
+	"color": "DDDDDD"
+}

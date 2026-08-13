@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iridium",
+	"melting": 2446,
+	"boiling": 4130,
+	"color": "CCCCCC",
+	"effect": "none"
+}

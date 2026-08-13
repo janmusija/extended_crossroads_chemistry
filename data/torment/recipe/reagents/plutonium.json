@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "plutonium",
+	"melting": 639,
+	"boiling": 3228,
+	"color": "CCCCCC"
+}

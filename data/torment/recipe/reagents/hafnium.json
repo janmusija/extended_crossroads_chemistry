@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hafnium",
+	"melting": 2233,
+	"boiling": 4603,
+	"color": "CCCCCC",
+	"effect": "none"
+}

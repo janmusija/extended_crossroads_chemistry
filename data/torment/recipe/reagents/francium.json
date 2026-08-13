@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "francium",
+	"melting": 25,
+	"boiling": 677,
+	"color": "CCCCCC",
+	"effect": "none"
+}

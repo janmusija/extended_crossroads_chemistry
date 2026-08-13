@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "promethium",
+	"melting": 1042,
+	"boiling": 3000,
+	"color": "CCCCCC",
+	"effect": "none"
+}

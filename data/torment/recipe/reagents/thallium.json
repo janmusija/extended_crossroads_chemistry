@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "thallium",
+	"melting": 304,
+	"boiling": 1473,
+	"color": "CCCCCC",
+	"effect": "none"
+}

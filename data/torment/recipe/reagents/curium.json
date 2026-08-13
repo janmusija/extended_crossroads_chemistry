@@ -1,0 +1,7 @@
+{
+	"type": "crossroads:reagents",
+	"id": "curium",
+	"melting": 1340,
+	"boiling": 3110,
+	"color": "BBAACC"
+}

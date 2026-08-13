@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "samarium",
+	"melting": 1072,
+	"boiling": 1900,
+	"color": "CCCCCC",
+	"effect": "none"
+}

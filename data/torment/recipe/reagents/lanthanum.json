@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lanthanum",
+	"melting": 920,
+	"boiling": 3464,
+	"color": "CCCCCC",
+	"effect": "none"
+}

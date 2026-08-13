@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "osmium",
+	"melting": 3033,
+	"boiling": 5008,
+	"color": "CCCCCC",
+	"effect": "none"
+}

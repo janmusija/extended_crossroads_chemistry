@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "europium",
+	"melting": 826,
+	"boiling": 1529,
+	"color": "CCCCCC",
+	"effect": "none"
+}

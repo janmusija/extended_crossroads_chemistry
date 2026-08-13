@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "praseodymium",
+	"melting": 931,
+	"boiling": 3130,
+	"color": "CCCCCC",
+	"effect": "none"
+}

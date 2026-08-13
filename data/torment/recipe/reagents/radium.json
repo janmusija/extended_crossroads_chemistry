@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "radium",
+	"melting": 700,
+	"boiling": 1737,
+	"color": "95FCCCC",
+	"effect": "none"
+}

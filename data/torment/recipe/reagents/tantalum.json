@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "tantalum",
+	"melting": 3017,
+	"boiling": 5458,
+	"color": "CCCCCC",
+	"effect": "none"
+}

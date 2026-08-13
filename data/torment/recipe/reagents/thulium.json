@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "thulium",
+	"melting": 1545,
+	"boiling": 1950,
+	"color": "CCCCCC",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "neodymium",
+	"melting": 1022,
+	"boiling": 3074,
+	"color": "CCCCCC",
+	"effect": "none"
+}

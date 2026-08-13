@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "radon",
+	"melting": -71,
+	"boiling": -62,
+	"color": "CCCCCC",
+	"effect": "none"
+}

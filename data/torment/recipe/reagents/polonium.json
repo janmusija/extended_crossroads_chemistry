@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "polonium",
+	"melting": 254,
+	"boiling": 962,
+	"color": "CCCCCC",
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "caesium",
+	"melting": 29,
+	"boiling": 671,
+	"color": "EDDE91",
+	"effect": "none"
+}

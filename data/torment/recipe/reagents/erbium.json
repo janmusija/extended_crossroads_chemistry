@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "erbium",
+	"melting": 1529,
+	"boiling": 2868,
+	"color": "CCCCCC",
+	"effect": "none"
+}

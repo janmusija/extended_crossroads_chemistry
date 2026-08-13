@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "astatine",
+	"melting": 302,
+	"boiling": 337,
+	"color": "CCCCCC",
+	"effect": "none"
+}
