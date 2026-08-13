@@ -3,7 +3,7 @@
 	"category": "normal",
 	"min_temp": 300,
 	"max_temp": 500,
-	"catalyst": "aluminium_oxide"
+	"catalyst": "aluminium_oxide",
 	"heat": -50,
 	"reagents": [
 	{

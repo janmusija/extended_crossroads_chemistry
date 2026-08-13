@@ -3,7 +3,7 @@
 	"category": "normal",
 	"min_temp": 0,
 	"max_temp": 100,
-	"catalyst": "palladium2_chloride"
+	"catalyst": "palladium2_chloride",
 	"reagents": [
 		{
 			"type": "propylene",

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "aluminium_oxide",
+	"melting": 2072,
+	"boiling": 2977,
+	"color": "FFFFFF",
+	"effect": "none"
+}

@@ -1,7 +1,7 @@
 {
 	"type": "crossroads:alchemy",
 	"category": "normal",
-	"heat": -25
+	"heat": -25,
 	"reagents": [
 	{
 		"type": "potassium_oxide",

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iron3_oxide",
+	"melting": 1539,
+	"boiling": 2623,
+	"color": "913B28",
+	"effect": "none"
+}
