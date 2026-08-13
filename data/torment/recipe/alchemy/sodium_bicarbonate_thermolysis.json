@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 50,
+	"heat": 5,
+	"reagents": [
+	{
+		"type": "sodium_bicarbonate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "water",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	},
+	{
+		"type": "sodium_carbonate",
+		"qty": 1
+	}
+	]
+}

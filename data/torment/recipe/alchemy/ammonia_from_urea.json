@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 132,
+	"max_temp": 175,
+	"reagents": [
+	{
+		"type": "urea",
+		"qty": 1
+	},
+	{
+		"type": "calcium_hydroxide",
+		"qty": 1
+	}
+	]
+	"products": [
+	{
+		"type": "calcium_carbonate",
+		"qty": 1
+	},
+	{
+		"type": "ammonia",
+		"qty": 2
+	}
+	]
+}

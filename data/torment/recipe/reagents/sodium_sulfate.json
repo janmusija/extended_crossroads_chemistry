@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_sulfate",
+	"melting": 884,
+	"boiling": 1429,
+	"color": "FFFFFF",
+	"effect": "none"
+}

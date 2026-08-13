@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1000,
+	"heat": 10,
+	"reagents": [
+	{
+		"type": "sodium_carbonate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_oxide",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	]
+}

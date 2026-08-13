@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_oxide",
+	"melting": 740,
+	"boiling": 1300,
+	"color": "FFFFFF",
+	"effect": "none"
+}

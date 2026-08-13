@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lead2_oxide",
+	"melting": 888,
+	"boiling": 1477,
+	"color": "D8B17C",
+	"effect": "none"
+}

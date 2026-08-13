@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 460,
+	"heat": 20,
+	"reagents": [
+	{
+		"type": "sodium_pyrosulfate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_sulfate",
+		"qty": 1
+	},
+	{
+		"type": "sulfur_trioxide",
+		"qty": 1
+	}
+	]
+}

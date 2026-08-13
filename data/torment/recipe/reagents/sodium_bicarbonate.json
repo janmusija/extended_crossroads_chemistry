@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_bicarbonate",
+	"melting": "never",
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

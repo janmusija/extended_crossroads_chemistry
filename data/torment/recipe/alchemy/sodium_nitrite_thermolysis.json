@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 330,
+	"heat": 10,
+	"reagents": [
+	{
+		"type": "sodium_nitrite",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_oxide",
+		"qty": 1
+	},
+	{
+		"type": "nitric_oxide",
+		"qty": 1
+	},
+	{
+		"type": "nitrogen_dioxide",
+		"qty": 1
+	}
+	]
+}

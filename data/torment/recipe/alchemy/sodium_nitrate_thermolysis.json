@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 380,
+	"heat": 10,
+	"reagents": [
+	{
+		"type": "sodium_nitrate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_nitrite",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	]
+}

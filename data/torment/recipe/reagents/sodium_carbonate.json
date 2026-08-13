@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_carbonate",
+	"melting": 851,
+	"boiling": 1600,
+	"color": "FFFFFF",
+	"effect": "none"
+}

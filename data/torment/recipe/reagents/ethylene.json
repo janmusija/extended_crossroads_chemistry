@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ethylene",
+	"melting": -169,
+	"boiling": -104,
+	"color": "CCCCCC",
+	"effect": "none"
+}

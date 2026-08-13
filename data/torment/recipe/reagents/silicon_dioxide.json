@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "silicon_dioxide",
+	"melting": 1713,
+	"boiling": 2950,
+	"color": "FFFFFF",
+	"effect": "none"
+}

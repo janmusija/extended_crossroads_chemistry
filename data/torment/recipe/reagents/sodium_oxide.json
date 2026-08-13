@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_oxide",
+	"melting": 1132,
+	"boiling": 1950,
+	"color": "FFFFFF",
+	"effect": "none"
+}

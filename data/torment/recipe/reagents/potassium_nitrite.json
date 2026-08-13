@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_nitrite",
+	"melting": 440,
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

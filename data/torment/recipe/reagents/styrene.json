@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "styrene",
+	"melting": -30,
+	"boiling": 145,
+	"color": "3D3D3D",
+	"effect": "none"
+}

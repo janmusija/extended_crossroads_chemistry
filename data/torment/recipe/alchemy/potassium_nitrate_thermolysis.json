@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 550,
+	"heat": 10,
+	"reagents": [
+	{
+		"type": "potassium_nitrate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_nitrite",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	]
+}

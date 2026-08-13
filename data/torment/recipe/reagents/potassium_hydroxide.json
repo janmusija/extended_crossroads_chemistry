@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_hydroxide",
+	"melting": 410,
+	"boiling": 1327,
+	"color": "FFFFFF",
+	"effect": "none"
+}

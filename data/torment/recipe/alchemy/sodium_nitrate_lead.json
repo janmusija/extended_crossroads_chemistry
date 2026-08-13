@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"catalyst": "water",
+	"reagents": [
+	{
+		"type": "sodium_nitrate",
+		"qty": 1
+	},
+	{
+		"type": "lead",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_nitrite",
+		"qty": 1
+	},
+	{
+		"type": "lead2_oxide",
+		"qty": 1
+	}
+	]
+}
