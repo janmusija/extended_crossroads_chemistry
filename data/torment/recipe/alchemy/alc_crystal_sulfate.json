@@ -1,0 +1,23 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"catalyst": "vanadium_pentoxide",
+	"max_temp": -10,
+	"heat": -35,
+	"reagents": [
+		{
+			"type": "quicksilver",
+			"qty": 2
+		},
+		{
+			"type": "sodium_sulfate",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "crystal",
+			"qty": 4
+		}
+	]
+}

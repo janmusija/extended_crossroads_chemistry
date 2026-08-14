@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "caesium_hydroxide",
+	"melting": 272,
+	"boiling": 898,
+	"color": "FFFFFF",
+	"effect": "none"
+}

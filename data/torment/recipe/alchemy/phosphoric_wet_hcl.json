@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 90,
+	"reagents": [
+	{
+		"type": "bone_meal",
+		"qty": 3
+	},
+	{
+		"type": "hydrochloric_acid",
+		"qty": 10
+	}
+	],
+	"products": [
+	{
+		"type": "phosphoric_acid",
+		"qty": 3
+	},
+	{
+		"type": "calcium_chloride",
+		"qty": 5
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

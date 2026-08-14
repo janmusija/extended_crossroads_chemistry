@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:reagents",
+	"id": "bone_meal",
+	"melting": 800,
+	"boiling": 1400,
+	"item": "torment:misc/bonemeal",
+	"color": {
+		"base": "B6AF95"
+	}
+}

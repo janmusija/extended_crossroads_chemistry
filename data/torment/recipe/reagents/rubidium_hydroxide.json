@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "rubidium_hydroxide",
+	"melting": 382,
+	"boiling": 1390,
+	"color": "FFFFFF",
+	"effect": "none"
+}

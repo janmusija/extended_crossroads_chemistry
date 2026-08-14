@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -21,
+	"max_temp": 100,
+	"reagents": [
+	{
+		"type": "brine",
+		"qty": 1
+	},
+	{
+		"type": "ammonia",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_bicarbonate",
+		"qty": 1
+	},
+	{
+		"type": "ammonium_chloride",
+		"qty": 1
+	}
+	]
+}

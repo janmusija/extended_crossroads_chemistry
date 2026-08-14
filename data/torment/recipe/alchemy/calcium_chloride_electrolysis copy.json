@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 772,
+	"max_temp": 1935,
+	"heat": 50,
+	"charged": true,
+	"reagents": {
+		"type": "calcium_chloride",
+		"qty": 1
+	},
+	"products": [
+	{
+		"type": "calcium",
+		"qty": 1
+	},
+	{
+		"type": "chlorine",
+		"qty": 1
+	}
+	]
+}

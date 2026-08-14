@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"heat": -60,
+	"reagents": [
+	{
+		"type": "sodium",
+		"qty": 2
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_hydroxide",
+		"qty": 2
+	},
+	{
+		"type": "hydrogen",
+		"qty": 1
+	}
+	]
+}

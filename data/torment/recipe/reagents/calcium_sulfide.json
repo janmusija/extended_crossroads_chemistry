@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_sulfide",
+	"melting": 2525,
+	"boiling": 3000,
+	"color": "FFFFFF",
+	"effect": "none"
+}

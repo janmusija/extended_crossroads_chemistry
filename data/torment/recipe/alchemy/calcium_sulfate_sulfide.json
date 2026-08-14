@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1400,
+	"reagents": [
+	{
+		"type": "calcium_sulfate",
+		"qty": 3
+	},
+	{
+		"type": "calcium_sulfide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sulfur_dioxide",
+		"qty": 4
+	},
+	{
+		"type": "calcium_oxide",
+		"qty": 4
+	}
+	]
+}

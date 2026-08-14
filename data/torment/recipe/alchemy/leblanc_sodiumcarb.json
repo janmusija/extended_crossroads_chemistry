@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 600,
+	"max_temp": 840,
+	"reagents": [
+	{
+		"type": "sodium_sulfide",
+		"qty": 1
+	},
+	{
+		"type": "calcium_carbonate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_carbonate",
+		"qty": 1
+	},
+	{
+		"type": "calcium_sulfide",
+		"qty": 1
+	}
+	]
+}

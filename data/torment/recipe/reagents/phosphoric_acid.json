@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "phosphoric_acid",
+	"melting": 29,
+	"boiling": 407,
+	"color": "FF8000",
+	"effect": "none"
+}

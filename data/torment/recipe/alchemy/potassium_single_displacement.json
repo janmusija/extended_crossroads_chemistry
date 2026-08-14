@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 870,
+	"heat": 10,
+	"reagents": [
+	{
+		"type": "potassium_chloride",
+		"qty": 1
+	},
+	{
+		"type": "sodium",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "potassium",
+		"qty": 1
+	},
+	{
+		"type": "salt",
+		"qty": 1
+	}
+	]
+}

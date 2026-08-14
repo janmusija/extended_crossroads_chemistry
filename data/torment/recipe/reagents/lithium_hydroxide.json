@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "lithium_hydroxide",
+	"melting": 462,
+	"boiling": 924,
+	"color": "FFFFFF",
+	"effect": "none"
+}
