@@ -1,0 +1,28 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 30,
+	"max_temp": 200,
+	"catalyst": "rotary_stone",
+	"charged": true,
+	"reagents": [
+	{
+		"type": "gunpowder",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "sulfur",
+		"qty": 1
+	},
+	{
+		"type": "carbon",
+		"qty": 1
+	},
+	{
+		"type": "potassium_nitrate",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -40,
+	"max_temp": 30,
+	"catalyst": "rotary_stone",
+	"charged": true,
+	"reagents": [],
+	"products": [
+	{
+		"type": "nitrogen",
+		"qty": 8
+	},
+	{
+		"type": "oxygen",
+		"qty": 2
+	}
+	]
+}

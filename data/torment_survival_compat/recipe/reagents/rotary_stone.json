@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "rotary_stone",
+	"melting": "never",
+	"boiling": "never",
+	"color": "66AA66",
+	"effect": "none"
+}
