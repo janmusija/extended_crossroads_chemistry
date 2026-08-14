@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"id": "crossroads:reagent_tank",
+		"count": 1
+	},
+	"pattern": [
+		"BGB",
+		"G G",
+		"BGB"
+	],
+	"key": {
+		"B": {
+			"tag": "c:ingots/bronze"
+		},
+		"G": {
+			"tag": "c:glass_blocks/colorless"
+		}
+	}
+}

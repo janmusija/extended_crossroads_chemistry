@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"path": "alchemy",
+	"result": {
+		"id": "crossroads:glassware_holder",
+		"count": 1
+	},
+	"pattern": [
+		"NNN",
+		"N N",
+		"I I"
+	],
+	"key": {
+		"N": {
+			"tag": "c:nuggets/iron"
+		},
+		"I": {
+			"tag": "c:ingots/iron"
+		}
+	}
+}

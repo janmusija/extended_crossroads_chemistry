@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"id": "crossroads:florence_flask_glass",
+		"count": 1
+	},
+	"pattern": [
+		" B ",
+		"G G",
+		"GGG"
+	],
+	"key": {
+		"B": {
+			"tag": "c:ingots/bronze"
+		},
+		"G": {
+			"tag": "c:glass_blocks/colorless"
+		}
+	}
+}

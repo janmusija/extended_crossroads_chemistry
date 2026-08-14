@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"id": "crossroads:alch_tube",
+		"count": 4
+	},
+	"pattern": [
+		"GGG",
+		"   ",
+		"GGG"
+	],
+	"key": {
+		"G": {
+			"tag": "c:glass_blocks/colorless"
+		}
+	}
+}
