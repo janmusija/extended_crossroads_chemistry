@@ -2,7 +2,7 @@
 	"type": "crossroads:alchemy",
 	"category": "normal",
 	"min_temp": 840,
-	"heat": 200,
+	"heat": 80,
 	"reagents": {
 		"type": "calcium_carbonate",
 		"qty": 1
