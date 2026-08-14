@@ -2,6 +2,7 @@
 	"type": "crossroads:alchemy",
 	"category": "normal",
 	"min_temp": 0,
+	"max_temp": 300,
 	"heat": -5,
 	"catalyst": "water",
 	"reagents": [
