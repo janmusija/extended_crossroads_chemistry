@@ -3,6 +3,7 @@
 	"id": "chlorine_trifluoride",
 	"melting": -76,
 	"boiling": 12,
+	"vessel": "crystal",
 	"color": {
 		"base": "80BDA65E",
 		"gas": "80FFFFFF"

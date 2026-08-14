@@ -4,5 +4,6 @@
 	"melting": -148,
 	"boiling": -46,
 	"color": "A0CCCCCC",
+	"vessel": "crystal",
 	"effect": "poison"
 }

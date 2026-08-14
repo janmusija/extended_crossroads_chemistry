@@ -3,6 +3,7 @@
 	"id": "dioxygen_difluoride",
 	"melting": -154,
 	"boiling": -57,
+	"vessel": "crystal",
 	"color": {
 		"base": "C89D3A2F",
 		"gas": "80C9702C",

@@ -2,6 +2,7 @@
 	"type": "crossroads:reagents",
 	"id": "chlorine_pentafluoride",
 	"melting": -103,
+	"vessel": "crystal",
 	"boiling": -13,
 	"color": "A0CCCCCC",
 	"effect": "poison"
