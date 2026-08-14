@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -220,
+	"max_temp": -180,
+	"heat": 40,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "oxygen",
+		"qty": 1
+	},
+	{
+		"type": "fluorine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "dioxygen_difluoride",
+		"qty": 1
+	}
+	]
+}

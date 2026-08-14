@@ -11,11 +11,16 @@ monochloramine decomposition?
 chloramines: "At low pH values, nitrogen trichloride dominates and at pH 3–5 dichloramine dominates. These equilibria are disturbed by the irreversible decomposition of both compounds"
 actual dichloramine melting and boiling points? may be hard to find
 
-production of urea
-
-enthalpy change for all reactions
-
-water + salt - dissolution -> brine - boiling -> water
-
 - synthesis of important solvents.
 - use for important solvents (more dissolution things generally)
+
+
+- hexafluorosilicic acid
+
+- thermal decomposition of MnO2 into Mn2O3
+
+- potassium hexafluoromanganate(iv) decomposition at high temps
+
+- ammonium bisulfate / persulfate / sulfate decomposition products
+
+- perchloryl fluoride

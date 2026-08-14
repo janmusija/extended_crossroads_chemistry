@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 9,
+	"max_temp": 150,
+	"reagents": [
+	{
+		"type": "potassium_hexafluoromanganate4",
+		"qty": 2
+	},
+	{
+		"type": "antimony_pentafluoride",
+		"qty": 4
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_hexafluoroantimonate",
+		"qty": 4
+	},
+	{
+		"type": "manganese3_fluoride",
+		"qty": 2
+	},
+	{
+		"type": "fluorine",
+		"qty": 1
+	}
+	]
+}

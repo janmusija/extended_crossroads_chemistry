@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 265,
+	"reagents": [
+	{
+		"type": "calcium_fluoride",
+		"qty": 1
+	},
+	{
+		"type": "sulfuric_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_sulfate",
+		"qty": 1
+	},
+	{
+		"type": "hydrogen_fluoride",
+		"qty": 2
+	}
+	]
+}

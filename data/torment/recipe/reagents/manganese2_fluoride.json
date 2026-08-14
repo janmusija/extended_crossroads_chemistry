@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "manganese2_fluoride",
+	"melting": 856,
+	"boiling": 1820,
+	"color": "FFEEEE",
+	"effect": "none"
+}

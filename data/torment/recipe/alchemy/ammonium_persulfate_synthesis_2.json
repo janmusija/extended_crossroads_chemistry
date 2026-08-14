@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 10,
+	"max_temp": 20,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "ammonium_sulfate",
+		"qty": 1
+	},
+	{
+		"type": "sulfuric_acid",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "hydrogen",
+		"qty": 1
+	},
+	{
+		"type": "ammonium_persulfate",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "antimony_trichloride",
+	"melting": 73,
+	"boiling": 223,
+	"color": "CCCCCC",
+	"effect": "none"
+}

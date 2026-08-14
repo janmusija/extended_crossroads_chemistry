@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hydrogen_fluoride",
+	"melting": -84,
+	"boiling": 20,
+	"color": "CCCCCC",
+	"effect": "none"
+}

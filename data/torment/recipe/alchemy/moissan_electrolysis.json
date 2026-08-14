@@ -1,0 +1,32 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 70,
+	"max_temp": 130,
+	"heat": 70,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "potassium_bifluoride",
+		"qty": 1
+	},
+	{
+		"type": "hydrogen_fluoride",
+		"qty": 1
+	}
+	],
+	"products": [
+		{
+			"type": "hydrogen",
+			"qty": 1
+		},
+		{
+			"type": "fluorine",
+			"qty": 1
+		},
+		{
+			"type": "potassium_fluoride",
+			"qty": 1
+		}
+	]
+}

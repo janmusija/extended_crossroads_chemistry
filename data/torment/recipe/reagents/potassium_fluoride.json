@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_fluoride",
+	"melting": 858,
+	"boiling": 1502,
+	"color": "CCCCCC",
+	"effect": "none"
+}

@@ -1,0 +1,36 @@
+{
+	"type": "crossroads:alchemy",
+	"min_temp": 2250,
+	"heat": -200,
+	"catalyst": "practitioner",
+	"charged": true,
+	"active": true,
+	"reagents": [
+		{
+			"type": "phelostogen",
+			"qty": 3
+		},
+		{
+			"type": "dioxygen_difluoride",
+			"qty": 1
+		},
+		{
+			"type": "chlorine_pentafluoride",
+			"qty": 1
+		},
+		{
+			"type": "perchloryl_fluoride",
+			"qty": 1
+		},
+		{
+			"type": "elem_charge",
+			"qty": 2
+		}
+	],
+	"products": [
+		{
+			"type": "hellfire",
+			"qty": 1
+		}
+	]
+}

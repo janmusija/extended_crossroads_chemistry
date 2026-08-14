@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "manganese3_fluoride",
+	"melting": "never",
+	"boiling": "never",
+	"color": "B1A5AC",
+	"effect": "none"
+}

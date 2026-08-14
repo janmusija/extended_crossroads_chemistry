@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ammonium_sulfate",
+	"melting": "never",
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

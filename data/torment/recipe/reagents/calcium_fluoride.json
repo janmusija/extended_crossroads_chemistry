@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_fluoride",
+	"melting": 1418,
+	"boiling": 2533,
+	"color": "A0007700",
+	"effect": "none"
+}

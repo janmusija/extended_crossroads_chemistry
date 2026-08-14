@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_bifluoride",
+	"melting": 239,
+	"boiling": "never",
+	"color": "CCCCCC",
+	"effect": "none"
+}

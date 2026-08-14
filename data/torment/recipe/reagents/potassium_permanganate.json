@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_permanganate",
+	"melting": 240,
+	"boiling": "never",
+	"color": "DD330055",
+	"effect": "disinfect"
+}

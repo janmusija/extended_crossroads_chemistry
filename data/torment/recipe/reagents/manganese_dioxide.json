@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "manganese_dioxide",
+	"melting": "never",
+	"boiling": "never",
+	"color": "000000",
+	"effect": "none"
+}

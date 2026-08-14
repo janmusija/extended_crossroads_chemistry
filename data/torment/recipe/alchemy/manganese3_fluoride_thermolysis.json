@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 600,
+	"reagents": [
+	{
+		"type": "manganese3_fluoride",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "manganese2_fluoride",
+		"qty": 2
+	},
+	{
+		"type": "fluorine",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"reagents": [
+	{
+		"type": "hydrogen_fluoride",
+		"qty": 2
+	},
+	{
+		"type": "potassium_hydroxide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_bifluoride",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

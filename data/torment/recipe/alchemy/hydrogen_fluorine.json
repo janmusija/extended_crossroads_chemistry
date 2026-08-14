@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -80,
+	"reagents": [
+	{
+		"type": "hydrogen",
+		"qty": 1
+	},
+	{
+		"type": "fluorine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "hydrogen_fluoride",
+		"qty": 1
+	}
+	]
+}

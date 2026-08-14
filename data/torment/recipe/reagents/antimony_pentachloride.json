@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "antimony_pentachloride",
+	"melting": 3,
+	"boiling": 140,
+	"color": "CCCCCC",
+	"effect": "none"
+}

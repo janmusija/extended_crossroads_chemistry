@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 280,
+	"heat": -60,
+	"reagents": [
+	{
+		"type": "chlorine",
+		"qty": 1
+	},
+	{
+		"type": "fluorine",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "chlorine_trifluoride",
+		"qty": 2
+	}
+	]
+}

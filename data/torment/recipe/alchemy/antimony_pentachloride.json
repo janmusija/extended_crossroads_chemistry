@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 73,
+	"max_temp": 224,
+	"reagents": [
+	{
+		"type": "antimony_trichloride",
+		"qty": 1
+	},
+	{
+		"type": "chlorine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "antimony_pentachloride",
+		"qty": 1
+	}
+	]
+}

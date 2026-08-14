@@ -1,0 +1,38 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 150,
+	"reagents": [
+	{
+		"type": "potassium_permanganate",
+		"qty": 2
+	},
+	{
+		"type": "potassium_fluoride",
+		"qty": 2
+	},
+	{
+		"type": "hydrogen_fluoride",
+		"qty": 10
+	},
+	{
+		"type": "hydrogen_peroxide",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_hexafluoromanganate4",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 8
+	},
+	{
+		"type": "oxygen",
+		"qty": 3
+	}
+	]
+}

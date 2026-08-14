@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 250,
+	"reagents": [
+	{
+		"type": "ammonium_sulfate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "ammonia",
+		"qty": 1
+	},
+	{
+		"type": "ammonium_bisulfate",
+		"qty": 1
+	}
+	]
+}

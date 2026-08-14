@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"reagents": [
+	{
+		"type": "ammonium_persulfate",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "ammonium_bisulfate",
+		"qty": 2
+	},
+	{
+		"type": "hydrogen_peroxide",
+		"qty": 1
+	}
+	]
+}

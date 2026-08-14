@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "antimony_pentafluoride",
+	"melting": 8,
+	"boiling": 150,
+	"color": "CCCCCC",
+	"effect": "none"
+}
