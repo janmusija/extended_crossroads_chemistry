@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 10,
+	"heat": -100,
+	"reagents": [
+	{
+		"type": "acetylene",
+		"qty": 1
+	},
+	{
+		"type": "oxygen",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "carbon_dioxide",
+		"qty": 2
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

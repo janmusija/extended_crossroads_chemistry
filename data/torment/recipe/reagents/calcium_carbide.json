@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_carbide",
+	"melting": 2160,
+	"boiling": 2300,
+	"color": "FFFFFF",
+	"effect": "none"
+}

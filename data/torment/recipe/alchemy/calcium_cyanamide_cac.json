@@ -1,0 +1,25 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1000,
+	"reagents": [
+	{
+		"type": "calcium_carbide",
+		"qty": 1
+	},
+	{
+		"type": "nitrogen",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_cyanamide",
+		"qty": 1
+	},
+	{
+		"type": "carbon",
+		"qty": 1
+	}
+	]
+}

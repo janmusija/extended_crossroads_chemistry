@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "acetylene",
+	"melting": -84,
+	"boiling": -84,
+	"color": "80FFFFFF",
+	"effect": "none"
+}
