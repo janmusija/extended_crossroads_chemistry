@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:reagents",
+	"id": "glass",
+	"melting": 1650,
+	"boiling": 2950,
+	"item": "torment:misc/glass",
+	"color": {
+		"base": "10FFFF00",
+		"liquid": "DDDE8232"
+	}
+}

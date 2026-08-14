@@ -1,0 +1,18 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1100,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "glass",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "silicon_dioxide",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1050,
+	"reagents": [
+	{
+		"type": "sand",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "glass",
+		"qty": 1
+	}
+	]
+}

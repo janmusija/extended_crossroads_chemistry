@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1500,
+	"max_temp": 2500,
+	"charged": true,
+	"reagents": [
+	{
+		"type": "silicon_dioxide",
+		"qty": 1
+	},
+	{
+		"type": "carbon",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "carbon_monoxide",
+		"qty": 2
+	},
+	{
+		"type": "silicon",
+		"qty": 1
+	}
+	]
+}

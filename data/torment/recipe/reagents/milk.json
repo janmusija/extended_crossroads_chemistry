@@ -4,7 +4,7 @@
 	"fluid": {
 		"fluid": "minecraft:milk"
 	},
-	"fluid_amount": 1000,
+	"fluid_amount": 125,
 	"melting": 0,
 	"boiling": 100,
 	"color": "DECAFF"

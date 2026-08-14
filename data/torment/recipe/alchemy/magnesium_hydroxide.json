@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 105,
+	"reagents": [
+		{
+			"type": "magnesium_chloride",
+			"qty": 1
+		},
+		{
+			"type": "sodium_hydroxide",
+			"qty": 2
+		},
+		{
+			"type": "water",
+			"qty": 2
+		}
+	],
+	"products": [
+		{
+			"type": "brine",
+			"qty": 2
+		},
+		{
+			"type": "magnesium_hydroxide",
+			"qty": 1
+		}
+	]
+}

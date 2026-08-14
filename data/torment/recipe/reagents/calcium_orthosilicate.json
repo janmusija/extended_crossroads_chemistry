@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "calcium_orthosilicate",
+	"melting": 2130,
+	"boiling": 3000,
+	"color": "FFFFFF",
+	"effect": "none"
+}

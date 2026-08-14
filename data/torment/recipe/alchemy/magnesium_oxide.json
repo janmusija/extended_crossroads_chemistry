@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 700,
+	"reagents": [
+		{
+			"type": "magnesium_hydroxide",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "water",
+			"qty": 1
+		},
+		{
+			"type": "magnesium_oxide",
+			"qty": 1
+		}
+	]
+}

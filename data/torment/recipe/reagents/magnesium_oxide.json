@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "magnesium_oxide",
+	"melting": 2852,
+	"boiling": 3600,
+	"color": "CCCCCC",
+	"effect": "none"
+}

@@ -241,5 +241,12 @@
 	"reagent.benzene": "Benzene",
 	"reagent.potassium_bifluoride": "Potassium Bifluoride",
 	"reagent.potassium_manganate": "Potassium Manganate",
-	"reagent.milk": "Milk"
+	"reagent.milk": "Milk",
+
+	"reagent.calcium_orthosilicate": "Calcium Orthosilicate",
+	"reagent.glass": "Glass",
+	"reagent.sand": "Sand",
+	"reagent.magnesium_carbonate": "Magnesium Carbonate",
+	"reagent.magnesium_hydroxide": "Magnesium Hydroxide",
+	"reagent.magnesium_oxide": "Magnesium Oxide"
 }

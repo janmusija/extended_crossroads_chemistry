@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sand",
+	"melting": 1650,
+	"boiling": 2950,
+	"item": "torment:misc/sand",
+	"color": "DED7AF"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "magnesium_carbonate",
+	"melting": 350,
+	"boiling": "never",
+	"color": "CCCCCC",
+	"effect": "none"
+}
