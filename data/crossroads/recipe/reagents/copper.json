@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "copper",
+	"melting": 1084,
+	"boiling": 2562,
+	"item": "c:nuggets/copper",
+	"fluid": {
+		"tag": "c:molten_copper"
+	},
+	"fluid_amount": 10,
+	"color": "FF783C"
+}

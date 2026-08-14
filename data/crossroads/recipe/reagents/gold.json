@@ -1,0 +1,15 @@
+{
+	"type": "crossroads:reagents",
+	"id": "gold",
+	"melting": 1064,
+	"boiling": 2970,
+	"item": "c:nuggets/gold",
+	"fluid": {
+		"tag": "c:molten_gold"
+	},
+	"fluid_amount": 10,
+	"color": {
+		"base": "FFAA00",
+		"solid": "FFFF00"
+	}
+}

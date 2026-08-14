@@ -1,0 +1,13 @@
+{
+	"type": "crossroads:reagents",
+	"id": "chlorine",
+	"melting": -102,
+	"boiling": -34,
+	"item": "crossroads:dusts/chlorine",
+	"color": {
+		"base": "90C8FF00",
+		"gas": "64C8FF00",
+		"solid": "A0C8FF00"
+	},
+	"effect": "poison"
+}

@@ -1,0 +1,15 @@
+{
+	"type": "crossroads:reagents",
+	"id": "iron",
+	"melting": 1538,
+	"boiling": 2861,
+	"item": "c:nuggets/iron",
+	"fluid": {
+		"tag": "c:molten_iron"
+	},
+	"fluid_amount": 10,
+	"color": {
+		"base": "FFAA00",
+		"solid": "808080"
+	}
+}
