@@ -3,5 +3,6 @@
 	"id": "vanadium_pentoxide",
 	"melting": 681,
 	"boiling": 1750,
+	"item": "crossroads:dusts/vanadium",
 	"color": "C8B057"
 }

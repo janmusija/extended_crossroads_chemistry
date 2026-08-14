@@ -3,9 +3,13 @@
 	"category": "normal",
 	"min_temp": -40,
 	"max_temp": 30,
-	"catalyst": "rotary_stone",
 	"charged": true,
-	"reagents": [],
+	"reagents": [
+	{
+		"type": "rotary_stone",
+		"qty": 1
+	}
+	],
 	"products": [
 	{
 		"type": "nitrogen",
@@ -14,6 +18,10 @@
 	{
 		"type": "oxygen",
 		"qty": 2
+	},
+	{
+		"type": "rotary_stone",
+		"qty": 1
 	}
 	]
 }
