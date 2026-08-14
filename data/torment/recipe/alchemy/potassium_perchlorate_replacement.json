@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"reagents": [
+		{
+			"type": "water",
+			"qty": 1
+		},
+		{
+			"type": "potassium_chloride",
+			"qty": 1
+		},
+		{
+			"type": "sodium_perchlorate",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "potassium_perchlorate",
+			"qty": 1
+		},
+		{
+			"type": "brine",
+			"qty": 1
+		}
+	]
+}

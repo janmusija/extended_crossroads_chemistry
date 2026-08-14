@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_chloride",
+	"melting": 770,
+	"boiling": 1500,
+	"color": "CCCCCC",
+	"effect": "none"
+}

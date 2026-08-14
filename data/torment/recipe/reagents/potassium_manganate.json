@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_manganate",
+	"melting": 190,
+	"boiling": "never",
+	"color": "003300",
+	"effect": "none"
+}

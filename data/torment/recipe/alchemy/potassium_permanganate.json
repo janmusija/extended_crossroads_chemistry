@@ -1,0 +1,31 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 410,
+	"catalyst": "potassium_hydroxide",
+	"charged": true,
+	"reagents": [
+	{
+		"type": "potassium_manganate",
+		"qty": 2
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_permanganate",
+		"qty": 2
+	},
+	{
+		"type": "potassium_hydroxide",
+		"qty": 2
+	},
+	{
+		"type": "hydrogen",
+		"qty": 1
+	}
+	]
+}

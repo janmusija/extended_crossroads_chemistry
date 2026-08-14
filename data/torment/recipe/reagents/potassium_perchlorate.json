@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "potassium_perchlorate",
+	"melting": "never",
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

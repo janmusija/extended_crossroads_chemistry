@@ -1,0 +1,29 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 410,
+	"reagents": [
+	{
+		"type": "potassium_hydroxide",
+		"qty": 4
+	},
+	{
+		"type": "manganese_dioxide",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_manganate",
+		"qty": 2
+	},
+	{
+		"type": "water",
+		"qty": 2
+	}
+	]
+}

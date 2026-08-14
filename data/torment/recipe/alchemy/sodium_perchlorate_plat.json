@@ -1,0 +1,28 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"charged": true,
+	"catalyst": "platinum",
+	"reagents": [
+		{
+			"type": "water",
+			"qty": 1
+		},
+		{
+			"type": "sodium_chlorate",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "sodium_perchlorate",
+			"qty": 1
+		},
+		{
+			"type": "hydrogen",
+			"qty": 1
+		}
+	]
+}
