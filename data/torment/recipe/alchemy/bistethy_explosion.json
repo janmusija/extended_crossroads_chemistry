@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 250,
+	"heat": -150,
+	"reagents": [
+	{
+		"type": "5_5-bis-tetrazolyl-hydrazine",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "nitrogen",
+		"qty": 11
+	},
+	{
+		"type": "ammonia",
+		"qty": 4
+	},
+	{
+		"type": "carbon",
+		"qty": 6
+	}
+	]
+}

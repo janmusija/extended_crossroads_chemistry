@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_bromide",
+	"melting": 747,
+	"boiling": 1390,
+	"color": "FFFFFF",
+	"effect": "none"
+}

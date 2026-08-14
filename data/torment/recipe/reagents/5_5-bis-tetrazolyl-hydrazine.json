@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "5_5-bis-tetrazolyl-hydrazine",
+	"melting": 240,
+	"boiling": "never",
+	"color": "FFFFFF",
+	"effect": "none"
+}

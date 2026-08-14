@@ -248,5 +248,12 @@
 	"reagent.sand": "Sand",
 	"reagent.magnesium_carbonate": "Magnesium Carbonate",
 	"reagent.magnesium_hydroxide": "Magnesium Hydroxide",
-	"reagent.magnesium_oxide": "Magnesium Oxide"
+	"reagent.magnesium_oxide": "Magnesium Oxide",
+	
+	"reagent.1-diazidocarbamoyl-5-azidotetrazole": "1-Diazidocarbamoyl-5-azidotetrazole",
+	"reagent.5_5-bis-tetrazolyl-hydrazine": "5,5'-Bis-tetrazolyl-hydrazine",
+	"reagent.hydrobromic_acid": "Hydrobromic Acid",
+	"reagent.isocyanogen_tetrabromide": "Isocyanogen Tetrabromide",
+	"reagent.sodium_5_5-azotetrazolate": "Sodium 5,5'-Azotetrazolate",
+	"reagent.sodium_bromide": "Sodium Bromide"
 }

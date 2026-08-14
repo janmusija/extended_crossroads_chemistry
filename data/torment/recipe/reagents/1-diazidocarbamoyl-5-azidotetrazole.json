@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "1-diazidocarbamoyl-5-azidotetrazole",
+	"melting": 78,
+	"boiling": 110,
+	"color": "FFFFFF",
+	"effect": "none"
+}

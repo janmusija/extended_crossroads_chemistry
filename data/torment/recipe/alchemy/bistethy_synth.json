@@ -1,0 +1,33 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 250,
+	"reagents": [
+	{
+		"type": "sodium_5_5-azotetrazolate",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 4
+	},
+	{
+		"type": "magnesium",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "5_5-bis-tetrazolyl-hydrazine",
+		"qty": 1
+	},
+	{
+		"type": "sodium_hydroxide",
+		"qty": 2
+	},
+	{
+		"type": "magnesium_hydroxide",
+		"qty": 1
+	}
+	]
+}

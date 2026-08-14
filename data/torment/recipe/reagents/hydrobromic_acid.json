@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "hydrobromic_acid",
+	"melting": -11,
+	"boiling": 122,
+	"color": "506A140A",
+	"effect": "poison"
+}

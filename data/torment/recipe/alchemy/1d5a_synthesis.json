@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 30,
+	"max_temp": 110,
+	"heat": 20,
+	"reagents": [
+	{
+		"type": "isocyanogen_tetrabromide",
+		"qty": 1
+	},
+	{
+		"type": "sodium_azide",
+		"qty": 4
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_bromide",
+		"qty": 4
+	},
+	{
+		"type": "1-diazidocarbamoyl-5-azidotetrazole",
+		"qty": 1
+	}
+	]
+}

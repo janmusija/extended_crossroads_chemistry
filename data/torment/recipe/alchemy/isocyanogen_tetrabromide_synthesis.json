@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 50,
+	"heat": 50,
+	"reagents": [
+	{
+		"type": "bromine",
+		"qty": 4
+	},
+	{
+		"type": "5_5-bis-tetrazolyl-hydrazine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "hydrobromic_acid",
+		"qty": 4
+	},
+	{
+		"type": "nitrogen",
+		"qty": 4
+	},
+	{
+		"type": "isocyanogen_tetrabromide",
+		"qty": 1
+	}
+	]
+}

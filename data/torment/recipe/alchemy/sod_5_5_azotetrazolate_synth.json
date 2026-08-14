@@ -1,0 +1,42 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 100,
+	"heat": 30,
+	"reagents": [
+	{
+		"type": "5-aminotetrazole",
+		"qty": 2
+	},
+	{
+		"type": "potassium_permanganate",
+		"qty": 4
+	},
+	{
+		"type": "sodium_hydroxide",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_5_5-azotetrazolate",
+		"qty": 1
+	},
+	{
+		"type": "manganese_dioxide",
+		"qty": 4
+	},
+	{
+		"type": "potassium_hydroxide",
+		"qty": 4
+	},
+	{
+		"type": "water",
+		"qty": 4
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	]
+}

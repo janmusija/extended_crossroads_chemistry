@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 110,
+	"heat": -200,
+	"reagents": [
+	{
+		"type": "1-diazidocarbamoyl-5-azidotetrazole",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "nitrogen",
+		"qty": 7
+	},
+	{
+		"type": "carbon",
+		"qty": 2
+	}
+	]
+}
