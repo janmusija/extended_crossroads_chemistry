@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 700,
+	"reagents": [
+		{
+			"type": "magnesium_carbonate",
+			"qty": 1
+		}
+	],
+	"products": [
+		{
+			"type": "magnesium_oxide",
+			"qty": 1
+		},
+		{
+			"type": "carbon_dioxide",
+			"qty": 1
+		}
+	]
+}
