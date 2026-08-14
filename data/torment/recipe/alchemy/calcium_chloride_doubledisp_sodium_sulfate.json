@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"max_temp": 100,
+	"reagents": [
+	{
+		"type": "water",
+		"qty": 2
+	},
+	{
+		"type": "calcium_chloride",
+		"qty": 1
+	},
+	{
+		"type": "sodium_sulfate",
+		"qty": 1	
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_sulfate",
+		"qty": 1
+	},
+	{
+		"type": "brine",
+		"qty": 2
+	}
+	]
+}

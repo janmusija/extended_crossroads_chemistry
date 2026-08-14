@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"heat": -5,
+	"catalyst": "water",
+	"reagents": [
+	{
+		"type": "calcium_hydroxide",
+		"qty": 1
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_carbonate",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

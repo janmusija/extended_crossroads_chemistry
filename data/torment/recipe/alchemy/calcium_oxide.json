@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -50,
+	"heat": -5,
+	"reagents": [
+	{
+		"type": "calcium",
+		"qty": 2
+	},
+	{
+		"type": "oxygen",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "calcium_oxide",
+		"qty": 2
+	}
+	]
+}
