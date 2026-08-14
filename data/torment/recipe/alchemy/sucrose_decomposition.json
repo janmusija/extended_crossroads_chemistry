@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 300,
+	"heat": 15,
+	"reagents": [
+	{
+		"type": "sucrose",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "carbon",
+		"qty": 12
+	},
+	{
+		"type": "water",
+		"qty": 11
+	}
+	]
+}

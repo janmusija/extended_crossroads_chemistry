@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sucrose",
+	"melting": 189,
+	"boiling": "never",
+	"item": "torment:dusts/sugar",
+	"color": {
+		"base": "88FFFFFF",
+		"liquid": "22BB7641"
+	}
+}

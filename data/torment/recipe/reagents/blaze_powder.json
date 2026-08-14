@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:reagents",
+	"id": "blaze_powder",
+	"melting": 1000,
+	"boiling": 1800,
+	"item": "torment:dusts/blaze",
+	"color": {
+		"base": "EEA639",
+		"liquid": "EEA639"
+	}
+}

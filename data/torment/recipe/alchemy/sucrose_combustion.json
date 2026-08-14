@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 180,
+	"max_temp": 300,
+	"heat": -30,
+	"reagents": [
+	{
+		"type": "sucrose",
+		"qty": 1
+	},
+	{
+		"type": "oxygen",
+		"qty": 12
+	}
+	],
+	"products": [
+	{
+		"type": "carbon_dioxide",
+		"qty": 12
+	},
+	{
+		"type": "water",
+		"qty": 11
+	}
+	]
+}
