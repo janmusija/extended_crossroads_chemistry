@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:reagents",
+	"id": "chlorine_trifluoride",
+	"melting": -76,
+	"boiling": 12,
+	"color": {
+		"base": "80BDA65E",
+		"gas": "80FFFFFF"
+	},
+	"effect": "poison"
+}

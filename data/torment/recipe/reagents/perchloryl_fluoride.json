@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "perchloryl_fluoride",
+	"melting": -148,
+	"boiling": -46,
+	"color": "A0CCCCCC",
+	"effect": "poison"
+}

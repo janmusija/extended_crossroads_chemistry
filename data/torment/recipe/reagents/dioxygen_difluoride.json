@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "dioxygen_difluoride",
+	"melting": -154,
+	"boiling": -57,
+	"color": {
+		"base": "C89D3A2F",
+		"gas": "80C9702C",
+		"solid": "FFC9702C"
+	},
+	"effect": "poison"
+}
