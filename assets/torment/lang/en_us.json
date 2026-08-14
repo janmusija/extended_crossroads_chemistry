@@ -12,7 +12,7 @@
 	"reagent.neon": "Neon",
 	"reagent.sodium": "Sodium",
 	"reagent.magnesium": "Magnesium",
-	"reagent.aluminum": "Aluminum",
+	"reagent.aluminium": "Aluminium",
 	"reagent.silicon": "Silicon",
 	"reagent.phosphorus": "Phosphorus",
 	"reagent.sulfur": "Sulfur",
@@ -119,10 +119,8 @@
 	"reagent.tennessine": "Tennessine",
 	"reagent.oganesson": "Oganesson",
 
-
 	"reagent.5-aminotetrazole": "5-Aminotetrazole",
 	"reagent.acetone": "Acetone",
-	"reagent.aluminium": "Aluminium",
 	"reagent.aminoguanidine": "Aminoguanidine",
 	"reagent.ammonia": "Ammonia",
 	"reagent.calcium_carbonate": "Calcium Carbonate",
