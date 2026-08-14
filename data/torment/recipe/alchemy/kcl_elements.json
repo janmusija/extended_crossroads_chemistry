@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -70,
+	"heat": -30,
+	"reagents": [
+	{
+		"type": "potassium",
+		"qty": 2
+	},
+	{
+		"type": "chlorine",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "potassium_chloride",
+		"qty": 2
+	}
+	]
+}
