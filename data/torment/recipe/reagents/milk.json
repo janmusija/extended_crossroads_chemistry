@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:reagents",
+	"id": "milk",
+	"fluid": {
+		"fluid": "minecraft:milk"
+	},
+	"fluid_amount": 1000,
+	"melting": 0,
+	"boiling": 100,
+	"color": "DECAFF"
+}
