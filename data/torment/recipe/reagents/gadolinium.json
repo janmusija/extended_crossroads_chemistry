@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "gadolinium",
+	"melting": 1312,
+	"boiling": 3273,
+	"color": "CCCCCC",
+	"effect": "none"
+}
