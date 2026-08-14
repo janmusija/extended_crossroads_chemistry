@@ -3,7 +3,11 @@
 	"id": "fluorine",
 	"melting": -220,
 	"boiling": -188,
-	"color": "C8C2B883",
+	"color": {
+		"base": "C8C2B883",
+		"gas": "80C2B883",
+		"solid": "E0C2B883"
+	},
 	"vessel": "crystal",
 	"effect": "poison"
 }

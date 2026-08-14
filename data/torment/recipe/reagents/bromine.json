@@ -3,6 +3,10 @@
 	"id": "bromine",
 	"melting": -7,
 	"boiling": 58,
-	"color": "6A140A",
+	"color": {
+		"base": "DD87190C",
+		"gas": "90E65A27",
+		"solid": "DDBD210F"
+	},
 	"effect": "poison"
 }

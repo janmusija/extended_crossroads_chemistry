@@ -3,6 +3,10 @@
 	"id": "oxygen",
 	"melting": -219,
 	"boiling": -183,
-	"color": "C84E9CB5",
+	"color": {
+		"base": "C82E9AFF",
+		"gas": "40FF0000",
+		"solid": "323EC2"
+	},
 	"effect": "none"
 }
