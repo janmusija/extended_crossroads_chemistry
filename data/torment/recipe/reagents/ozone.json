@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "ozone",
+	"melting": -192,
+	"boiling": -112,
+	"color": {
+		"base": "C83A1CB0",
+		"gas": "405940FF",
+		"solid": "3D328C"
+	},
+	"effect": "none"
+}

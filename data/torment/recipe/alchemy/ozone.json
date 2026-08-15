@@ -1,0 +1,18 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -200,
+	"max_temp": -175,
+	"heat": 30,
+	"charged": true,
+	"reagents": {
+		"type": "oxygen",
+		"qty": 3
+	},
+	"products": [
+		{
+			"type": "ozone",
+			"qty": 2
+		}
+	]
+}
