@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1200,
+	"heat": 50,
+	"reagents": [
+	{
+		"type": "tricalcium_phosphate",
+		"qty": 2
+	},
+	{
+		"type": "carbon",
+		"qty": 10
+	}
+	],
+	"products": [
+	{
+		"type": "carbon_monoxide",
+		"qty": 10
+	},
+	{
+		"type": "white_phosphorus",
+		"qty": 1
+	},
+	{
+		"type": "calcium_oxide",
+		"qty": 6
+	}
+	]
+}

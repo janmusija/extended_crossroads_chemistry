@@ -1,0 +1,23 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": -20,
+	"max_temp": 200,
+	"heat": -30,
+	"reagents": [
+	{
+		"type": "water",
+		"qty": 6
+	},
+	{
+		"type": "phosphorus_pentoxide",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "phosphoric_acid",
+		"qty": 4
+	}
+	]
+}

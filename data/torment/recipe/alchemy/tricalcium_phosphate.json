@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 29,
+	"heat": 100,
+	"reagents": [
+	{
+		"type": "phosphoric_acid",
+		"qty": 2
+	},
+	{
+		"type": "calcium_hydroxide",
+		"qty": 3
+	}
+	],
+	"products": [
+	{
+		"type": "tricalcium_phosphate",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 6
+	}
+	]
+}

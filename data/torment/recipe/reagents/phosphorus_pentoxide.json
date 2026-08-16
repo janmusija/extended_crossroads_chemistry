@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "phosphorus_pentoxide",
+	"melting": 340,
+	"boiling": 360,
+	"color": "FF8000",
+	"effect": "none"
+}

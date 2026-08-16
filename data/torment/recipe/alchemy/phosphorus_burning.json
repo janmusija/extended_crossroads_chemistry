@@ -1,0 +1,22 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 20,
+	"heat": -60,
+	"reagents": [
+	{
+		"type": "oxygen",
+		"qty": 5
+	},
+	{
+		"type": "white_phosphorus",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "phosphorus_pentoxide",
+		"qty": 1
+	}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "tricalcium_phosphate",
+	"melting": 1670,
+	"boiling": 2500,
+	"color": "FFFFFF",
+	"effect": "none"
+}

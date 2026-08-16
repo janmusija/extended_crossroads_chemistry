@@ -14,7 +14,6 @@
 	"reagent.magnesium": "Magnesium",
 	"reagent.aluminium": "Aluminium",
 	"reagent.silicon": "Silicon",
-	"reagent.phosphorus": "Phosphorus",
 	"reagent.sulfur": "Sulfur",
 	"reagent.chlorine": "Chlorine",
 	"reagent.argon": "Argon",
@@ -264,6 +263,9 @@
 	"reagent.silver_5-nitrotetrazolate": "Silver 5-Nitrotetrazolate",
 	"reagent.silver_nitrate": "Silver Nitrate",
 	"reagent.sodium_5-nitrotetrazolate": "Sodium 5-Nitrotetrazolate",
+
+	"reagent.phosphorus_pentoxide": "Phosphorus Pentoxide",
+	"reagent.tricalcium_phosphate": "Tricalcium Phosphate",
 
 	"reagent.hydrochloric_acid": "Hydrochloric Acid",
 	"reagent.sulfuric_acid": "Sulfuric Acid",

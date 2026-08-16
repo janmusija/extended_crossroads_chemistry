@@ -1,0 +1,34 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 1200,
+	"heat": 200,
+	"reagents": [
+	{
+		"type": "bone_meal",
+		"qty": 12
+	},
+	{
+		"type": "carbon",
+		"qty": 30
+	}
+	],
+	"products": [
+	{
+		"type": "white_phosphorus",
+		"qty": 3
+	},
+	{
+		"type": "carbon_monoxide",
+		"qty": 30
+	},
+	{
+		"type": "calcium_hydroxide",
+		"qty": 2
+	},
+	{
+		"type": "calcium_oxide",
+		"qty": 18
+	}
+	]
+}
