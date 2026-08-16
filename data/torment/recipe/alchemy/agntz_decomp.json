@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 230,
+	"heat": -200,
+	"reagents": [
+	{
+		"type": "silver_5-nitrotetrazolate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "silver",
+		"qty": 2
+	},
+	{
+		"type": "nitrogen",
+		"qty": 5
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 2
+	}
+	]
+}

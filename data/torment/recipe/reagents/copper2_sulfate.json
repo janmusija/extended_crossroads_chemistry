@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "copper2_sulfate",
+	"melting": 590,
+	"boiling": "never",
+	"color": "C00084FF",
+	"effect": "none"
+}

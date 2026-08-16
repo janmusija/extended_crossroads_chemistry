@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 5,
+	"max_temp": 15,
+	"catalyst": "water",
+	"reagents": [
+	{
+		"type": "sulfuric_acid",
+		"qty": 1
+	},
+	{
+		"type": "sodium_5-nitrotetrazolate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_bisulfate",
+		"qty": 1
+	},
+	{
+		"type": "5-nitrotetrazole",
+		"qty": 1
+	}
+	]
+}

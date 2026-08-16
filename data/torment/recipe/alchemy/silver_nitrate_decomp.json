@@ -1,0 +1,26 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 220,
+	"heat": 20,
+	"reagents": [
+	{
+		"type": "silver_nitrate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "oxygen",
+		"qty": 1
+	},
+	{
+		"type": "silver",
+		"qty": 2
+	},
+	{
+		"type": "nitrogen_dioxide",
+		"qty": 2
+	}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 300,
+	"heat": -160,
+	"reagents": [
+	{
+		"type": "sodium_5-nitrotetrazolate",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_oxide",
+		"qty": 1
+	},
+	{
+		"type": "nitrogen",
+		"qty": 5
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	},
+	{
+		"type": "carbon_monoxide",
+		"qty": 1
+	}
+	]
+}

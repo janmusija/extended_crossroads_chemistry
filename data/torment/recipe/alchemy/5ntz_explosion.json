@@ -1,0 +1,30 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 115,
+	"heat": -200,
+	"reagents": [
+	{
+		"type": "5-nitrotetrazole",
+		"qty": 2
+	}
+	],
+	"products": [
+	{
+		"type": "nitrogen",
+		"qty": 5
+	},
+	{
+		"type": "carbon_dioxide",
+		"qty": 1
+	},
+	{
+		"type": "carbon_monoxide",
+		"qty": 1
+	},
+	{
+		"type": "water",
+		"qty": 1
+	}
+	]
+}

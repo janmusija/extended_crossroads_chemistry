@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 0,
+	"mx_temp": 100,
+	"catalyst": "water",
+	"reagents": [
+	{
+		"type": "sodium_5-nitrotetrazolate",
+		"qty": 1
+	},
+	{
+		"type": "silver_nitrate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "silver_5-nitrotetrazolate",
+		"qty": 1
+	},
+	{
+		"type": "sodium_nitrate",
+		"qty": 1 
+	}
+	]
+}

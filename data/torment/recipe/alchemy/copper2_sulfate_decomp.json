@@ -1,0 +1,21 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 650,
+	"reagents": [
+	{
+		"type": "copper2_sulfate",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "copper2_oxide",
+		"qty": 1
+	},
+	{
+		"type": "sulfur_trioxide",
+		"qty": 1
+	}
+	]
+}

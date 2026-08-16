@@ -210,7 +210,7 @@
 	"reagent.blaze_powder": "Blaze Powder",
 	"reagent.potassium_permanganate": "Potassium Permanganate",
 	"reagent.phosphoric_acid": "Phosphoric Acid",
-	"reagent.sodium_oxide": "Sodim Oxide",
+	"reagent.sodium_oxide": "Sodium Oxide",
 	"reagent.dichloromethane": "Dichloromethane",
 	"reagent.perchloryl_fluoride": "Perchloryl Fluoride",
 	"reagent.lithium_hydroxide": "Lithium Hydroxide",
@@ -257,6 +257,13 @@
 	"reagent.sodium_5_5-azotetrazolate": "Sodium 5,5'-Azotetrazolate",
 	"reagent.sodium_bromide": "Sodium Bromide",
 	"reagent.ozone": "Ozone",
+	
+	"reagent.5-nitrotetrazole": "5-Nitrotetrazole",
+	"reagent.copper2_oxide": "Copper(II) Oxide",
+	"reagent.copper2_sulfate": "Copper(II) Sulfate",
+	"reagent.silver_5-nitrotetrazolate": "Silver 5-Nitrotetrazolate",
+	"reagent.silver_nitrate": "Silver Nitrate",
+	"reagent.sodium_5-nitrotetrazolate": "Sodium 5-Nitrotetrazolate",
 
 	"reagent.hydrochloric_acid": "Hydrochloric Acid",
 	"reagent.sulfuric_acid": "Sulfuric Acid",

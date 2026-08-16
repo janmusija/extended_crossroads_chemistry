@@ -1,0 +1,27 @@
+{
+	"type": "crossroads:alchemy",
+	"category": "normal",
+	"min_temp": 65,
+	"catalyst": "nitric_acid",
+	"heat": 30,
+	"reagents": [
+	{
+		"type": "5-aminotetrazole",
+		"qty": 1
+	},
+	{
+		"type": "sodium_nitrite",
+		"qty": 1
+	}
+	],
+	"products": [
+	{
+		"type": "sodium_5-nitrotetrazolate",
+		"qty": 1
+	},
+	{
+		"type": "ammonia",
+		"qty": 1
+	}
+	]
+}

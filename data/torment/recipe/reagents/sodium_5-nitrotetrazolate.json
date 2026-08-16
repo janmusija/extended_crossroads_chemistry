@@ -1,0 +1,12 @@
+{
+	"type": "crossroads:reagents",
+	"id": "sodium_5-nitrotetrazolate",
+	"melting": 101,
+	"boiling": "never",
+	"color": {
+		"base": "C80060FF",
+		"gas": "80FFFFFF",
+		"solid": "A0AAE1FF"
+	},
+	"effect": "none"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "copper2_oxide",
+	"melting": 1326,
+	"boiling": 2000,
+	"color": "111111",
+	"effect": "none"
+}
