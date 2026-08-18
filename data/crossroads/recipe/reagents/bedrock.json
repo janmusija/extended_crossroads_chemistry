@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:reagents",
+	"id": "bedrock",
+	"melting": 36726,
+	"boiling": 36727,
+	"item": "crossroads:dusts/bedrock",
+	"color": "808080"
+}
